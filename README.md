@@ -87,7 +87,7 @@ endmodule
 ## Simulated Output Gate Level Modelling
 
 _______ Here Paste the Simulated output  ___________
-OUTPUT:
+
 ![Screenshot 2025-03-23 122422](https://github.com/user-attachments/assets/1e06208b-f547-41c9-ae9d-493701fe8db7)
 
 
@@ -113,7 +113,7 @@ endmodule
 ## Simulated Output Data Flow Modelling
 
 _______ Here Paste the Simulated output  ___________
-OUTPUT:
+
 ![Screenshot 2025-03-23 115336](https://github.com/user-attachments/assets/b1d70cb9-1c19-464f-a910-798298c45877)
 
 
@@ -145,7 +145,7 @@ endmodule
 
 _______ Here Paste the Simulated output  ___________
 
-OUTPUT:
+
 ![Screenshot 2025-03-23 121321](https://github.com/user-attachments/assets/b9aedaf3-0450-4c07-b12a-b8b464d3db1d)
 
 
@@ -186,7 +186,7 @@ endmodule
 ## Simulated Output Structural Modelling
 
 _______ Here Paste the Simulated output  ___________
-OUTPUT:
+
 ![Screenshot 2025-03-23 171853](https://github.com/user-attachments/assets/ed126a27-8f07-4cf9-84cc-bd0eb0dffdd0)
 
 

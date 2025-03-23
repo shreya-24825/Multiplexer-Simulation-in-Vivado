@@ -88,7 +88,8 @@ endmodule
 
 _______ Here Paste the Simulated output  ___________
 OUTPUT:
-![Screenshot 2025-02-24 162231](https://github.com/user-attachments/assets/081b7c4f-779c-4213-a571-10876a2024f1)
+![Screenshot 2025-03-23 122422](https://github.com/user-attachments/assets/1e06208b-f547-41c9-ae9d-493701fe8db7)
+
 
 
 
@@ -113,7 +114,8 @@ endmodule
 
 _______ Here Paste the Simulated output  ___________
 OUTPUT:
-![Screenshot 2025-03-13 193735](https://github.com/user-attachments/assets/d51cdbf2-d64a-4bf7-9a6b-bf2fd62fbd5f)
+![Screenshot 2025-03-23 115336](https://github.com/user-attachments/assets/b1d70cb9-1c19-464f-a910-798298c45877)
+
 
 
 
@@ -144,7 +146,8 @@ endmodule
 _______ Here Paste the Simulated output  ___________
 
 OUTPUT:
-![Screenshot 2025-03-13 195424](https://github.com/user-attachments/assets/5a746787-304b-4db1-90a0-f055d35cff78)
+![Screenshot 2025-03-23 121321](https://github.com/user-attachments/assets/b9aedaf3-0450-4c07-b12a-b8b464d3db1d)
+
 
 
 
@@ -184,7 +187,8 @@ endmodule
 
 _______ Here Paste the Simulated output  ___________
 OUTPUT:
-![Screenshot 2025-03-15 134614](https://github.com/user-attachments/assets/150388b8-236f-446a-ba73-cd63538d333c)
+![Screenshot 2025-03-23 171853](https://github.com/user-attachments/assets/ed126a27-8f07-4cf9-84cc-bd0eb0dffdd0)
+
 
 
 

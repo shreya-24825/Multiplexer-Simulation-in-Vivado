@@ -84,9 +84,9 @@ module mux4_to_1_gate (
 
     or (Y, A_and, B_and, C_and, D_and);
 endmodule
-## Simulated Output Gate Level Modelling
 
-_______ Here Paste the Simulated output  ___________
+```
+OUTPUT:
 
 ![Screenshot 2025-03-23 122422](https://github.com/user-attachments/assets/1e06208b-f547-41c9-ae9d-493701fe8db7)
 
@@ -110,10 +110,8 @@ module mux4_to_1_dataflow (
                (S1 & S0 & D);
 endmodule
 
-## Simulated Output Data Flow Modelling
-
-_______ Here Paste the Simulated output  ___________
-
+```
+OUTPUT:
 ![Screenshot 2025-03-23 115336](https://github.com/user-attachments/assets/b1d70cb9-1c19-464f-a910-798298c45877)
 
 
@@ -141,9 +139,8 @@ module mux4_to_1_behavioral (
     end
 endmodule
 
-## Simulated Output Behavioral Modelling
-
-_______ Here Paste the Simulated output  ___________
+```
+OUTPUT:
 
 
 ![Screenshot 2025-03-23 121321](https://github.com/user-attachments/assets/b9aedaf3-0450-4c07-b12a-b8b464d3db1d)
@@ -183,10 +180,8 @@ module mux4_to_1_structural (
     mux2_to_1 mux_final (.A(mux_low), .B(mux_high), .S(S1), .Y(Y));
 endmodule
 
-## Simulated Output Structural Modelling
-
-_______ Here Paste the Simulated output  ___________
-
+```
+OUTPUT:
 ![Screenshot 2025-03-23 171853](https://github.com/user-attachments/assets/ed126a27-8f07-4cf9-84cc-bd0eb0dffdd0)
 
 

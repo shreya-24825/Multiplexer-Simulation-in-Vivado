@@ -182,8 +182,7 @@ endmodule
 
 ```
 OUTPUT:
-![Screenshot 2025-03-23 171853](https://github.com/user-attachments/assets/ed126a27-8f07-4cf9-84cc-bd0eb0dffdd0)
-
+<img width="1917" height="1198" alt="Screenshot 2025-09-19 115045" src="https://github.com/user-attachments/assets/466c5e7f-21ee-480b-a6f1-aab911c2b806" />
 
 
 

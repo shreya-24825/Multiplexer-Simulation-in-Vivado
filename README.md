@@ -141,9 +141,9 @@ endmodule
 
 ```
 OUTPUT:
+![Uploading Screenshot 2025-09-19 114234.png…]()
 
 
-![Screenshot 2025-03-23 121321](https://github.com/user-attachments/assets/b9aedaf3-0450-4c07-b12a-b8b464d3db1d)
 
 
 

@@ -86,9 +86,9 @@ module mux4_to_1_gate (
 endmodule
 
 ```
-OUTPUT:
+OUTPUT: ![Uploading Screenshot 2025-09-19 111541.png…]()
+>
 
-![Screenshot 2025-03-23 122422](https://github.com/user-attachments/assets/1e06208b-f547-41c9-ae9d-493701fe8db7)
 
 
 
